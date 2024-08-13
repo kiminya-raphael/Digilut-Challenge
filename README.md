@@ -40,8 +40,7 @@ Project Organization
 
 Evaluation process
 ------------
-
-To evaluate your work at the end of the challenge, we run the following commands:
+Update the directory paths in the ENV file then run the following commands:
 
 ```make workflow```
 
