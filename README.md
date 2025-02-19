@@ -1,42 +1,7 @@
-# DigiLut Challenge: Advancing Lung Transplant Rejection Detection
-==============================
+# [DigiLut Challenge: Advancing Lung Transplant Rejection Detection](https://www.trustii.io/en/post/join-the-digilut-challenge-advancing-lung-transplant-rejection-detection)
+=============================
 
-A Foch hospital challenge.
-
-Project Organization
-------------
-
-    ├── README.md                 <- The top-level README for developers using this project
-    │
-    ├── data
-    │   ├── raw                   <- Raw data, immutable, not to be modified
-    │   │
-    │   ├── processed             <- The final, canonical data sets for modeling
-    │   │
-    │   └── predictions           <- Predictions made on the test set, stored in a .csv file
-    │
-    ├── models                    <- Trained and serialized models
-    │
-    ├── reports                   <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │
-    ├── notebooks                 <- Jupyter notebooks
-    │   │
-    │   ├── preprocess_data.ipynb <- Notebook to turn raw data into features for modeling
-    │   │
-    │   ├── train.ipynb           <- Notebook to train model(s)
-    │   │
-    │   └── predict.ipynb         <- Notebook to make predictions using trained models
-    │
-    ├── utils
-    │   └── schemas.py            <- A script defining the schema of the expected submission
-    │
-    ├── Makefile                  <- Makefile with commands like `make train` or `make predict`
-    │
-    ├── .env                      <- File to store environment variables
-    │
-    └── requirements.txt          <- The requirements file for reproducing the environment
-
-
+Lung graft rejection from digitized lung biopsy slides
 
 Evaluation process
 ------------
