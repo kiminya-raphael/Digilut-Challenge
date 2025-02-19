@@ -1,0 +1,11 @@
+# Environment variable for the `raw data` directory
+DIR_RAW_DATA = '/home/jovyan/data'
+
+# Environment variable for the `data staging` directory
+DIR_PROCESSED_DATA = '/home/jovyan/digilut/data/processed'
+
+# Environment variable for the `models` directory
+DIR_MODELS = '/home/jovyan/digilut/models'
+
+# Environment variable for the `predictions` directory
+DIR_PREDICTIONS = '/home/jovyan/digilut/data/predictions'
