@@ -1,4 +1,4 @@
-# digilut
+# DigiLut Challenge: Advancing Lung Transplant Rejection Detection
 ==============================
 
 A Foch hospital challenge.
